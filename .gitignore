@@ -1,0 +1,10 @@
+.env
+jobs.db
+__pycache__/
+*.pyc
+.venv/
+app/generated_resumes/
+app/cover_letters/
+app/screenshots/
+app/templates/
+app/profile.py

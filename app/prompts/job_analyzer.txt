@@ -1,0 +1,25 @@
+You are an expert AI career advisor.
+
+Analyze the following resume and job description.
+
+Your tasks:
+
+1. Identify the job category.
+2. Score the candidate from 0 to 100.
+3. Decide if the candidate should apply.
+4. Recommend the best resume style.
+5. List strengths.
+6. List missing skills.
+7. Explain your reasoning.
+
+Return ONLY valid JSON.
+
+{
+  "category": "",
+  "score": 0,
+  "should_apply": false,
+  "resume_style": "",
+  "strengths": [],
+  "missing_skills": [],
+  "reason": ""
+}

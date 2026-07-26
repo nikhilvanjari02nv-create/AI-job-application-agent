@@ -1,0 +1,9 @@
+PROFILE = {
+    "name": "Your Name",
+    "email": "your.email@example.com",
+    "phone": "+1234567890",
+    "linkedin": "https://linkedin.com/in/yourprofile",
+    "github": "https://github.com/yourusername",
+    "portfolio": "",
+    "address": "",
+}
